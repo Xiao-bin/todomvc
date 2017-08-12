@@ -1,0 +1,22 @@
+{
+  "name": "todomvc",
+  "description": "> Template used for creating [TodoMVC](http://todomvc.com) apps",
+  "main": "gulpfile.js",
+  "authors": [
+    "Achieve-possibility <wxb1004385065@sina.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "store2": "store#^2.5.1"
+
+  }
+}
